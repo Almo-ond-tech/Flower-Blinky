@@ -1,4 +1,4 @@
-I made a 4 leafed clover shaped shaped led-chaser
+I made a 4 leafed clover shaped shaped led-board
 
 <img width="1170" height="618" alt="image" src="https://github.com/user-attachments/assets/4f7f0865-254d-43ea-8166-701b37ff4fa4" />
 
